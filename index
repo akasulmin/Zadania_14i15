@@ -1,0 +1,39 @@
+<html> 
+  <head> 
+    <meta charset="utf-8"> 
+  </head> 
+<body> 
+    <table width=200% border="1" align="center"> 
+  <tr> 
+            <td colspan="3"> 
+               <h2><b>Logo-Kopacz</b></h2><br>
+               <h6>Gdańsk 07-11-2025</h6>  
+            </td> 
+        </tr> 
+  <tr> 
+      <td width=18% align="center"> 
+         <a href="http://www.kuratorium.gda.pl" target="strony">Kuratorium</a> 
+         <br> 
+         <a href="http://www.zse.gda.pl" target="strony">ZSE  Gdańsk</a> 
+      </td> 
+      <td align=center><iframe width=650 height=650 name="strony" src="glowny_Kopacz.html" border="0"></iframe> 
+      </td> 
+      <td 
+		<map id="mapa_kopacz"> 
+            <area shape="circle" coords="41,83,112" href="plik.zip"> 
+            <area shape="rect" coords="19,283,204,160" href="tabela_twoje_nazwisko.html" target="obszar_glowny"> 
+            <area shape="circle" coords="36,367,107" href="formularz_twoje_nazwisko.html" target="obszar_glowny"> 
+            <area shape="rect" coords="20,569,205,446" href="mailto:kacper.kopacz.11@gmail.com"> 
+            <area shape="poly" coords="31,724,110,587,189,724" href="z1_z6_twoje_nazwisko.html" target="obszar_glowny"> 
+		</map> 
+ 		 <img src="Mapa.gif" alt="tutaj wybieraj linki" usemap="#mapa_kopacz">  
+      </td> 
+  </tr>
+  <tr> 
+            <td colspan="3"> 
+                <b>stopka</b>, 3-kolumny scalone   
+            </td> 
+        </tr>  
+</table> 
+</body> 
+</html> 
