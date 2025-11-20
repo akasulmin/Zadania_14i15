@@ -20,11 +20,11 @@
       </td> 
       <td 
 		<map id="mapa_kopacz"> 
-            <area shape="circle" coords="41,83,112" href="plik.zip"> 
-            <area shape="rect" coords="19,283,204,160" href="tabela_twoje_nazwisko.html" target="obszar_glowny"> 
-            <area shape="circle" coords="36,367,107" href="formularz_twoje_nazwisko.html" target="obszar_glowny"> 
-            <area shape="rect" coords="20,569,205,446" href="mailto:kacper.kopacz.11@gmail.com"> 
-            <area shape="poly" coords="31,724,110,587,189,724" href="z1_z6_twoje_nazwisko.html" target="obszar_glowny"> 
+            <area shape="circle" coords="21,26,48" href="plik.zip"> 
+            <area shape="rect" coords="9,98,88,57" href="tabela_twoje_nazwisko.html" target="obszar_glowny"> 
+            <area shape="circle" coords="22,129,49" href="formularz_twoje_nazwisko.html" target="obszar_glowny"> 
+            <area shape="rect" coords="9,201,88,160" href="mailto:kacper.kopacz.11@gmail.com"> 
+            <area shape="poly" coords="14,278,51,210,88,278" href="z1_z6_twoje_nazwisko.html" target="obszar_glowny"> 
 		</map> 
  		 <img src="Mapa.gif" alt="tutaj wybieraj linki" usemap="#mapa_kopacz">  
       </td> 
